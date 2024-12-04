@@ -11,3 +11,5 @@ VPSサーバ
 
 
 [README](/README.md)
+[設計](docs/design.md)
+
